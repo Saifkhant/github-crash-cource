@@ -5,6 +5,3 @@ function sayName(){
     console.log('My Name is ' = name1);
 }
 
-function isFunction18(){
-return age >= 18
-}
