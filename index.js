@@ -19,4 +19,8 @@ function isFunction17(){
         function isFn(){
             return age >= 18
             }
-            
+            //
+            function isAge20(){
+                return age >= 20
+                }
+             
